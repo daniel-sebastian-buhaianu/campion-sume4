@@ -24,4 +24,3 @@ int main()
 	g.close();
 	return 0;
 }
-
